@@ -1,0 +1,17 @@
+{
+  "name": "roughcut-kit",
+  "version": "0.1.0",
+  "description": "캡컷·프리미어 프로 러프컷 자동화 묶음: 자동 자막 기반 컷편집, 대본 기준 러프컷, 캡컷 프로젝트 편집 스킬과 premiere-pro MCP 서버",
+  "keywords": [
+    "video-editing",
+    "capcut",
+    "premiere-pro",
+    "rough-cut",
+    "subtitles"
+  ],
+  "author": {
+    "name": "choicp7-svg",
+    "url": "https://github.com/choicp7-svg"
+  },
+  "repository": "https://github.com/choicp7-svg/roughcut-kit"
+}

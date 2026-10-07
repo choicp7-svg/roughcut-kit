@@ -1,0 +1,16 @@
+{
+  "name": "roughcut-kit",
+  "owner": {
+    "name": "choicp7-svg"
+  },
+  "metadata": {
+    "description": "캡컷·프리미어 프로 러프컷 자동화 플러그인"
+  },
+  "plugins": [
+    {
+      "name": "roughcut-kit",
+      "source": "./",
+      "description": "캡컷·프리미어 프로 러프컷 자동화 스킬 묶음과 premiere-pro MCP 서버"
+    }
+  ]
+}

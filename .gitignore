@@ -1,0 +1,6 @@
+.DS_Store
+._*
+__pycache__/
+*.pyc
+review.json
+sfx_profile.json
