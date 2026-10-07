@@ -48,3 +48,7 @@ export CAPCUT_DRAFT_ROOT="/Volumes/외장드라이브/CapCut Drafts"
 
 - `capcut-roughcut`의 자막 스타일 프리셋과 기본 효과음 세트는 치상(아워프로젝트)의 것입니다.
 - `capcut-edit`와 `premiere-pro-mcp`는 각 원작자의 것입니다.
+
+## 라이선스
+
+[MIT](LICENSE). 단, 위 출처에 적힌 제3자 구성요소(`capcut-roughcut`의 자막 프리셋·효과음 세트, `capcut-edit`, `premiere-pro-mcp`)의 권리는 각 원작자에게 있습니다.

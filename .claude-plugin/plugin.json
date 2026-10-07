@@ -13,5 +13,6 @@
     "name": "choicp7-svg",
     "url": "https://github.com/choicp7-svg"
   },
-  "repository": "https://github.com/choicp7-svg/roughcut-kit"
+  "repository": "https://github.com/choicp7-svg/roughcut-kit",
+  "license": "MIT"
 }
